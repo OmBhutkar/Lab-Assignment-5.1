@@ -1,6 +1,10 @@
 # Lab-Assignment-5.1
 
-```markdown
+Here's a sample README.md file for your GitHub repository based on your project:
+
+---
+
+markdown
 # 📈 LSTM Time Series Forecasting
 
 This project implements an LSTM (Long Short-Term Memory) neural network for time series forecasting, inspired by the research paper **"ABBA: An Interpretable and Fast Symbolic Representation of Time Series" (arXiv:2003.05672v1)** and comparative reference to **"A Comprehensive Review on LSTM Architectures for Time Series Forecasting" (arXiv:1912.09363v3)**.
@@ -64,32 +68,32 @@ A sample time series dataset (`timesData.csv`) is used. You may replace it with 
 
 ## 📁 Repository Structure
 
-```
+
 ├── LSTM_Time_Series_Report.docx   # Final report (summary, methodology, results, discussion)
 ├── timesData.csv                  # Dataset used for LSTM forecasting
 ├── lstm_forecasting.py            # Python implementation of LSTM
 ├── README.md                      # Project documentation
-```
+
 
 ---
 
 ## ✅ How to Run
 
 1. Clone the repo:
-   ```bash
+   bash
    git clone https://github.com/yourusername/LSTM-Time-Series-Forecasting.git
    cd LSTM-Time-Series-Forecasting
-   ```
+   
 
 2. Install dependencies:
-   ```bash
+   bash
    pip install -r requirements.txt
-   ```
+   
 
 3. Run the script:
-   ```bash
+   bash
    python lstm_forecasting.py
-   ```
+   
 
 ---
 
@@ -102,3 +106,9 @@ Feel free to reach out for any questions or suggestions!
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+
+---
+
+Let me know if you'd like a requirements.txt or GitHub Actions CI setup too!
