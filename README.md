@@ -1,10 +1,5 @@
 # Lab-Assignment-5.1
 
-Here's a sample README.md file for your GitHub repository based on your project:
-
----
-
-markdown
 # 📈 LSTM Time Series Forecasting
 
 This project implements an LSTM (Long Short-Term Memory) neural network for time series forecasting, inspired by the research paper **"ABBA: An Interpretable and Fast Symbolic Representation of Time Series" (arXiv:2003.05672v1)** and comparative reference to **"A Comprehensive Review on LSTM Architectures for Time Series Forecasting" (arXiv:1912.09363v3)**.
@@ -107,8 +102,3 @@ Feel free to reach out for any questions or suggestions!
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-
-
----
-
-Let me know if you'd like a requirements.txt or GitHub Actions CI setup too!
